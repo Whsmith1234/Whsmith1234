@@ -1,4 +1,5 @@
-### Hi there 👋
+### Whsmith1234
+A fan of js
 
 <!--
 **Whsmith1234/Whsmith1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
