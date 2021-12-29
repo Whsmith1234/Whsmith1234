@@ -1,7 +1,8 @@
 # Whsmith1234
-### A fan of js and python. <br />
-<br/>
-
+Currently working on making NFTs cheaper and better for the environment by building them on top of Adamant.im's proof of stake blockchain network.<br>
+Learning more about cryptogrphy and statistics as I go.<br>
+Thanks for being interested enough to come this far.<br>
+Have a great day
 
 
 <!--
